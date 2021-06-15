@@ -8,8 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
+    "eslint": "^7.28.0",
     "jose": "^3.12.3"
   },
-  "type":"module"
+  "dependencies": {}
 }
